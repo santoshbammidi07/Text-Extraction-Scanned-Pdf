@@ -1,4 +1,4 @@
-# Text-Extraction-Scanned-Pdf
+# Text-Extraction-Scanned-Pdf,.
 In pdf documents text handling requires quite a lot of preparatory work that may involve handling font encoding,decoding the raw text data streams into more usable data
 and for the case of scanned pdf,preprocessing them for reliable text extraction. There is no straight-forward way of extracting text from scanned pdf documents (images embedded on a documet)
 rather called non-searchable pdf especially when working with java.
